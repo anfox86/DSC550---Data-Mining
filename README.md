@@ -1,2 +1,1 @@
-# DSC550---Data-Mining
-Data can often contain patterns and anomalies that only emerge at large scale. In this course, students explore techniques to mine and analyze large datasets to discover useful knowledge. Text mining, unstructured data, social networks, and other types of unsupervised data mining methods for data science are included.
+This project was a personal favorite as my daughter and I love the story of the Titanic. We have spent many hours discussing what happened, and what we thought could have changed the overall outcome. So for this I tried to predict survival of a passenger on the Titanic.
